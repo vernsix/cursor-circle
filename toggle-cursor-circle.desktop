@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Cursor Circle Toggle
+Comment=Click to toggle cursor highlight on/off
+Exec=/home/$USER/toggle-cursor-circle.sh
+Icon=input-mouse
+Terminal=false
+Categories=Utility;Accessibility;
+Actions=Enable;Disable;Status;
+
