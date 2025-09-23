@@ -190,9 +190,6 @@ pkill -f cursor_circle.py
 # Remove main script
 rm ~/cursor_circle.py
 
-# Remove autostart
-rm ~/.config/autostart/toggle-cursor-circle.desktop
-
 # Remove toggle script
 rm ~/toggle-cursor-circle.sh
 
