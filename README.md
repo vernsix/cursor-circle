@@ -7,9 +7,17 @@
 
 ## Overview
 
+![Cursor Circle](cursor-cirlce.png)
+
+
 An open-source, customizable cursor highlight overlay for Ubuntu/Linux desktops. Creates a persistent, always-visible
 circle highlight that follows your mouse cursor. Built with Python, GTK3, and Cairo graphics for optimal performance and
 minimal resource usage.
+
+## Video of Install / Use
+
+[Click here to see video of install and use](https://youtu.be/ed8dWJn0Ttg)
+
 
 ## Features
 
